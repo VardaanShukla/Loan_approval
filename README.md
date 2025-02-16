@@ -25,10 +25,10 @@ The model achieved high accuracy on both training and validation sets. The key m
 ### Loss & Accuracy Graphs
 
 #### **Training & Validation Loss**
-![Training & Validation Loss](image1.png)
+![Training & Validation Loss](results/train_vall_loss.jpg)
 
 #### **Training & Validation Accuracy**
-![Training & Validation Accuracy](image2.png)
+![Training & Validation Accuracy](results/train_vall_acc.jpg)
 
 ## How to Use This Model
 ### 1️⃣ Train the Model
